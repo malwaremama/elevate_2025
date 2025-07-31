@@ -750,8 +750,8 @@ demoverse_user_download_executable_from_macro:
   enabled: true
   id: ru_30fc0120-fed2-4558-808f-f40d5083d1af
   resource_name: projects/128392921758/locations/us/instances/7e799994-da5f-4e3c-b5a1-6e87fbf0f7fb/rules/ru_30fc0120-fed2-4558-808f-f40d5083d1af
-  revision_create_time: '2025-03-17T22:26:37.791023Z'
-  revision_id: v_1742250397_791023000
+  revision_create_time: '2025-07-31T18:46:09.960495Z'
+  revision_id: v_1753987569_960495000
   run_frequency: LIVE
   type: MULTI_EVENT
 demoverse_workspace_MalwareDownload:
